@@ -19,8 +19,10 @@ Please, do not heasitate on contributing to this library
 Se han organizado las piezas en series.
 - Serie Cubo:
 Las piezas se podrían obtener a partir de un cubo seccionando algunas de las partes.
+<img src="CUBOS.png" width="300" align="center">
 - Serie Eles:
 Las piezas son derivaciones a partir de reforzar una L
+<img src="ELES.png" width="300" align="center">
 - Serie Cilindros:
 Las piezas se obtienen con el cilindro como forma o como elemento sustractivo
 
