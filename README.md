@@ -1,5 +1,11 @@
 # OpenSCAD-PiezasDibujo
 
+License:
+
+The designs OpenSCAD-Piezas de Dibujo are licensed under Creative Commons Attribution-ShareAlike 4.0 International License
+
+
+
 Criterios usado en el diseño de las piezas:
 - Se ha intentado hacer las piezas lo más sencillas posibles para que sirvan para aprender a hacer vistas y perspectivas.
 - Las piezas tienen una medida estándar de 40x40x40, intentando encontrar el equilibrio entre economía de material, tiempo de impresión y espacio de  almacenaje y que sean funcionales.
