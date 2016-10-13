@@ -9,7 +9,7 @@ The designs OpenSCAD-Piezas de Dibujo are licensed under [Creative Commons Attri
 
 # Contribute
 
-Please, do not heasitate on contributing to this library
+Please, do not hesitate on contributing to this library
   
 # Criterios usado en el diseño de las piezas:
 - Se ha intentado hacer las piezas lo más sencillas posibles para que sirvan para aprender a hacer vistas y perspectivas.
