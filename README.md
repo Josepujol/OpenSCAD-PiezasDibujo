@@ -1,8 +1,11 @@
 # OpenSCAD-PiezasDibujo
+A library of 3D printable open source pieces to learn to draw designed in OpenSCAD
 
 # License:
 
 The designs OpenSCAD-Piezas de Dibujo are licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+
+<img src="By-sa.png" width="100" align="center">
 
 # Contribute
 
@@ -26,6 +29,11 @@ Las piezas son derivaciones a partir de reforzar una L
 - Serie Cilindros:
 Las piezas se obtienen con el cilindro como forma o como elemento sustractivo
 
-De cada pieza hay 3 archivos .scad con el código de openscad .stl con el 3d y una imagen .png
+# Archivos
+
+De cada pieza hay 3 archivos:
+- .scad con el código de openscad 
+- .stl con el 3d 
+- .png una imagen 
 
 
