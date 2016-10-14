@@ -1,5 +1,5 @@
 # OpenSCAD-PiezasDibujo
-A library of 3D printable open source pieces to learn to draw designed in OpenSCAD
+A library of 3D printable open source pieces to learn to draw perspectives and views. The pieces are designed in OpenSCAD
 
 # License:
 
