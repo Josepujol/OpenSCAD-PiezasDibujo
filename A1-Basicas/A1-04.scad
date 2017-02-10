@@ -1,0 +1,9 @@
+difference(){
+union(){
+cube([40,40,20]);
+translate([0,20,0])
+cube([20,20,40]);
+}
+translate([20,0,0])
+cube([20,20,40]);
+}
