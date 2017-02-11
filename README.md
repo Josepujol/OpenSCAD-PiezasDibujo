@@ -1,5 +1,5 @@
 # OpenSCAD-PiezasDibujo
-A library of 3D printable open source pieces to learn to draw perspectives and views. The pieces are designed in OpenSCAD
+A library of 3D printable open source pieces to learn to draw perspectives and views. The pieces have been designed with OpenSCAD
 
 # License:
 
@@ -14,8 +14,8 @@ Please, do not hesitate on contributing to this library
 # Series
 The pieces are organized in sets in order of difficulty
 
-- Básica A1
-<img src="/A1-Basicas/A1-01.png" width="100" align="center">
+- Básica A1: 
+<img src="/A1-Basicas/A1-01.png" width="100" align="left">
 <img src="/A1-Basicas/A1-02.png" width="100" align="center">
 <img src="/A1-Basicas/A1-03.png" width="100" align="center">
 <img src="/A1-Basicas/A1-04.png" width="100" align="center">
@@ -23,14 +23,16 @@ The pieces are organized in sets in order of difficulty
 <img src="/A1-Basicas/A1-06.png" width="100" align="center">
 <img src="/A1-Basicas/A1-07.png" width="100" align="center">
 <img src="/A1-Basicas/A1-08.png" width="100" align="center">
-- Serie Cubo:
-Las piezas se podrían obtener a partir de un cubo seccionando algunas de las partes.
-<img src="CUBOS.png" width="300" align="center">
-- Serie Eles:
-Las piezas son derivaciones a partir de reforzar una L
-<img src="ELES.png" width="300" align="center">
-- Serie Cilindros:
-Las piezas se obtienen con el cilindro como forma o como elemento sustractivo
+
+- Básica A2: 
+<img src="/A2-Basicas/A2-01.png" width="100" align="center">
+<img src="/A2-Basicas/A2-02.png" width="100" align="center">
+<img src="/A2-Basicas/A2-03.png" width="100" align="center">
+<img src="/A2-Basicas/A2-04.png" width="100" align="center">
+<img src="/A2-Basicas/A2-05.png" width="100" align="center">
+<img src="/A2-Basicas/A2-06.png" width="100" align="center">
+<img src="/A2-Basicas/A2-07.png" width="100" align="center">
+<img src="/A2-Basicas/A2-08.png" width="100" align="center">
 
 # Files
 
