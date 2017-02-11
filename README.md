@@ -7,11 +7,17 @@ The designs OpenSCAD-Piezas de Dibujo are licensed under [Creative Commons Attri
 
 <img src="By-sa.png" width="100" align="center">
 
-# Contribute
 
-Please, do not hesitate on contributing to this library
   
+# Files
+
+Every piece have three file
+- .scad openscad code 
+- .stl 3D surface 
+- .png with an image 
+
 # Series
+
 The pieces are organized in sets in order of difficulty
 
 - A1-Básicas: 
@@ -36,12 +42,16 @@ The pieces are organized in sets in order of difficulty
 
 - B1-Medias: 
 <img src="/B1-Medias/B1-01.png" width="100" align="center">
+<img src="/B1-Medias/B1-02.png" width="100" align="center">
+<img src="/B1-Medias/B1-03.png" width="100" align="center">
+<img src="/B1-Medias/B1-04.png" width="100" align="center">
+<img src="/B1-Medias/B1-05.png" width="100" align="center">
+<img src="/B1-Medias/B1-06.png" width="100" align="center">
+<img src="/B1-Medias/B1-07.png" width="100" align="center">
+<img src="/B1-Medias/B1-08.png" width="100" align="center">
 
-# Files
 
-Every piece have three file
-- .scad openscad code 
-- .stl 3D surface 
-- .png with an image 
+# Contribute
 
+Please, do not hesitate on contributing to this library
 
