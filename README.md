@@ -15,7 +15,7 @@ Please, do not hesitate on contributing to this library
 The pieces are organized in sets in order of difficulty
 
 - Básica A1: 
-<img src="/A1-Basicas/A1-01.png" width="100" align="left">
+<img src="/A1-Basicas/A1-01.png" width="100" align="center">
 <img src="/A1-Basicas/A1-02.png" width="100" align="center">
 <img src="/A1-Basicas/A1-03.png" width="100" align="center">
 <img src="/A1-Basicas/A1-04.png" width="100" align="center">
@@ -33,6 +33,9 @@ The pieces are organized in sets in order of difficulty
 <img src="/A2-Basicas/A2-06.png" width="100" align="center">
 <img src="/A2-Basicas/A2-07.png" width="100" align="center">
 <img src="/A2-Basicas/A2-08.png" width="100" align="center">
+
+- Media B1: 
+<img src="/B1-Media/B1-01.png" width="100" align="center">
 
 # Files
 
