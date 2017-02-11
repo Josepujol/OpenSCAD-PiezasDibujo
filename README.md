@@ -11,15 +11,11 @@ The designs OpenSCAD-Piezas de Dibujo are licensed under [Creative Commons Attri
 
 Please, do not hesitate on contributing to this library
   
-# Criterios usado en el diseño de las piezas:
-- Se ha intentado hacer las piezas lo más sencillas posibles para que sirvan para aprender a hacer vistas y perspectivas.
-- Las piezas tienen una medida estándar de 40x40x40, intentando encontrar el equilibrio entre economía de material, tiempo de impresión y espacio de  almacenaje y que sean funcionales.
-- Se ha intentando que las medidas de los elementos de las piezas sean múltiplos de 10 mm para que así sean más fáciles de acotar
-- Se ha intentado que las piezas tengan cierta simetría y estética
-
-
 # Series
-Se han organizado las piezas en series.
+The pieces are organized in sets in order of difficulty
+
+- Básica A1
+<img src="/A1-Basicas/A1-01.png" width="100" align="center">
 - Serie Cubo:
 Las piezas se podrían obtener a partir de un cubo seccionando algunas de las partes.
 <img src="CUBOS.png" width="300" align="center">
@@ -29,11 +25,11 @@ Las piezas son derivaciones a partir de reforzar una L
 - Serie Cilindros:
 Las piezas se obtienen con el cilindro como forma o como elemento sustractivo
 
-# Archivos
+# Files
 
-De cada pieza hay 3 archivos:
-- .scad con el código de openscad 
-- .stl con el 3d 
-- .png una imagen 
+Every piece have three file
+- .scad openscad code 
+- .stl 3D surface 
+- .png with an image 
 
 
