@@ -14,7 +14,7 @@ Please, do not hesitate on contributing to this library
 # Series
 The pieces are organized in sets in order of difficulty
 
-- Básica A1: 
+- A1-Básicas: 
 <img src="/A1-Basicas/A1-01.png" width="100" align="center">
 <img src="/A1-Basicas/A1-02.png" width="100" align="center">
 <img src="/A1-Basicas/A1-03.png" width="100" align="center">
@@ -24,7 +24,7 @@ The pieces are organized in sets in order of difficulty
 <img src="/A1-Basicas/A1-07.png" width="100" align="center">
 <img src="/A1-Basicas/A1-08.png" width="100" align="center">
 
-- Básica A2: 
+- A2-Básicas: 
 <img src="/A2-Basicas/A2-01.png" width="100" align="center">
 <img src="/A2-Basicas/A2-02.png" width="100" align="center">
 <img src="/A2-Basicas/A2-03.png" width="100" align="center">
@@ -34,8 +34,8 @@ The pieces are organized in sets in order of difficulty
 <img src="/A2-Basicas/A2-07.png" width="100" align="center">
 <img src="/A2-Basicas/A2-08.png" width="100" align="center">
 
-- Media B1: 
-<img src="/B1-Media/B1-01.png" width="100" align="center">
+- B1-Medias: 
+<img src="/B1-Medias/B1-01.png" width="100" align="center">
 
 # Files
 
