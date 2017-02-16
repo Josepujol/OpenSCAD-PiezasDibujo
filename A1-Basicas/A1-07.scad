@@ -1,7 +1,8 @@
-difference(){
 
-cube([40,40,40]);
-translate([10,0,10])
-cube([20,40,30]);
 
-}
+cube([40,40,10]);
+translate([0,30,0])
+cube([40,10,40]);
+translate([0,0,0])
+cube([10,40,30]);
+
