@@ -1,11 +1,7 @@
-
-
-cube([40, 40, 10], center=false);
-cube([10, 10, 40], center=false);
-translate([30,0,0])
-cube([10, 10, 40], center=false);
-translate([30,30,0])
-cube([10, 10, 40], center=false);
-translate([0,30,0])
-cube([10, 10, 40], center=false);
-
+union(){
+  cube([40, 40, 20], center=false);
+  cube([20, 20, 40], center=false);
+  translate([20, 20, 0]){
+    cube([20, 20, 40], center=false);
+  }
+}
