@@ -11,9 +11,9 @@ The designs OpenSCAD-Piezas de Dibujo are licensed under [Creative Commons Attri
   
 # Files
 
-Every piece have three file
+Every piece have three files
 - .scad openscad code 
-- .stl 3D surface 
+- .stl 3D object 
 - .png with an image 
 
 # Series
