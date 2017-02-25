@@ -49,8 +49,18 @@ The pieces are organized in sets in order of difficulty
 <img src="/B1-Medias/B1-06.png" width="100" align="center">
 <img src="/B1-Medias/B1-07.png" width="100" align="center">
 <img src="/B1-Medias/B1-08.png" width="100" align="center">
+<img src="/B1-Medias/B1-09.png" width="100" align="center">
 
-
+- B1-Medias: 
+<img src="/B2-Medias/B2-01.png" width="100" align="center">
+<img src="/B2-Medias/B2-02.png" width="100" align="center">
+<img src="/B2-Medias/B2-03.png" width="100" align="center">
+<img src="/B2-Medias/B2-04.png" width="100" align="center">
+<img src="/B2-Medias/B2-05.png" width="100" align="center">
+<img src="/B2-Medias/B2-06.png" width="100" align="center">
+<img src="/B2-Medias/B2-07.png" width="100" align="center">
+<img src="/B2-Medias/B2-08.png" width="100" align="center">
+<img src="/B2-Medias/B2-09.png" width="100" align="center">
 # Contribute
 
 Please, do not hesitate on contributing to this library
