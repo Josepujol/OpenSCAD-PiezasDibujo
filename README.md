@@ -73,6 +73,18 @@ The pieces are organized in sets in order of difficulty
 <img src="/C1-Avanzadas/C1-08.png" width="100" align="center">
 <img src="/C1-Avanzadas/C1-09.png" width="100" align="center">
 
+- C2-Avanzadas: 
+<img src="/C2-Avanzadas/C2-01.png" width="100" align="center">
+<img src="/C2-Avanzadas/C2-02.png" width="100" align="center">
+<img src="/C2-Avanzadas/C2-03.png" width="100" align="center">
+<img src="/C2-Avanzadas/C2-04.png" width="100" align="center">
+<img src="/C2-Avanzadas/C2-05.png" width="100" align="center">
+<img src="/C2-Avanzadas/C2-06.png" width="100" align="center">
+<img src="/C2-Avanzadas/C2-07.png" width="100" align="center">
+<img src="/C2-Avanzadas/C2-08.png" width="100" align="center">
+<img src="/C2-Avanzadas/C2-09.png" width="100" align="center">
+<img src="/C2-Avanzadas/C2-10.png" width="100" align="center">
+
 # Contribute
 
 Please, do not hesitate on contributing to this library
