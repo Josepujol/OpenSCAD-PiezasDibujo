@@ -61,6 +61,9 @@ The pieces are organized in sets in order of difficulty
 <img src="/B2-Medias/B2-07.png" width="100" align="center">
 <img src="/B2-Medias/B2-08.png" width="100" align="center">
 <img src="/B2-Medias/B2-09.png" width="100" align="center">
+
+- C1-Avanzadas: 
+<img src="/C1-Avanzadas/C1-01.png" width="100" align="center">
 # Contribute
 
 Please, do not hesitate on contributing to this library
