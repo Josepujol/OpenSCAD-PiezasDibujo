@@ -1,7 +1,7 @@
 # OpenSCAD-PiezasDibujo
 A library of 3D printable open source pieces to learn to draw perspectives and views. The pieces have been designed with OpenSCAD
 
-# License:
+## License:
 
 The designs OpenSCAD-Piezas de Dibujo are licensed under [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -9,14 +9,14 @@ The designs OpenSCAD-Piezas de Dibujo are licensed under [Creative Commons Attri
 
 
   
-# Files
+## Files
 
 Every piece have three files
 - .scad openscad code 
 - .stl 3D object 
 - .png with an image 
 
-# Series
+## Series
 
 The pieces are organized in sets in order of difficulty
 
@@ -85,7 +85,7 @@ The pieces are organized in sets in order of difficulty
 <img src="/C2-Avanzadas/C2-09.png" width="100" align="center">
 <img src="/C2-Avanzadas/C2-10.png" width="100" align="center">
 
-# Contribute
+## Contribute
 
 Please, do not hesitate on contributing to this library
 
